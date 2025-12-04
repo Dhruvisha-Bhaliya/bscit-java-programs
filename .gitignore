@@ -1,18 +1,9 @@
-# NetBeans build folders
-/build/
-/dist/
-/nbproject/private/
-/nbproject/*-impl.xml
+# IDE/Build Files to Ignore
+nbproject/
+build/
+manifest.mf
+build.xml
 
-# Class files
+# Compiled Java Files
 *.class
-
-# Temporary files
-*.log
-*.tmp
-
-# Office temporary
-~$*.docx
-
-# JAR files
 *.jar
