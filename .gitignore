@@ -1,0 +1,18 @@
+# NetBeans build folders
+/build/
+/dist/
+/nbproject/private/
+/nbproject/*-impl.xml
+
+# Class files
+*.class
+
+# Temporary files
+*.log
+*.tmp
+
+# Office temporary
+~$*.docx
+
+# JAR files
+*.jar
